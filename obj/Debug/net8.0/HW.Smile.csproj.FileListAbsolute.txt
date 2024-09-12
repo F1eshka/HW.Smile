@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\bin\Debug\net8.0\HW.Smile.exe
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\bin\Debug\net8.0\HW.Smile.deps.json
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\bin\Debug\net8.0\HW.Smile.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\bin\Debug\net8.0\HW.Smile.dll
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\bin\Debug\net8.0\HW.Smile.pdb
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.dll
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\refint\HW.Smile.dll
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.pdb
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\HW.Smile.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Smile\HW.Smile\obj\Debug\net8.0\ref\HW.Smile.dll
